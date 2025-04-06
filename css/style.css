@@ -166,7 +166,10 @@ h1, h2, h3, h4, h5, h6{
     border: 0px;
     padding: 0px;
     font-size: 4rem;
-    color:var(--bg1)
+    color:var(--black)
+}
+.navbar-toggler .bi-list{
+    font-size: 5.5rem;
 }
 .navbar-toggler:focus{
     box-shadow: inherit;
@@ -175,7 +178,7 @@ h1, h2, h3, h4, h5, h6{
     --bs-navbar-padding-y: 3rem;
 }
 .bg-body-tertiary{
-    background-color: var(--chocolaty)!important;
+    background-color: var(--white)!important;
 }
 .nav-link{
     color: var(--green);
